@@ -19,4 +19,4 @@
 * `IDLE state`: it is the default state & reset state of the finite state machine.
 * `Mv_Up State`: it is the state to enable the up motor to open the garage door.
 * `Mv_Dn state`: it is the state to enable the down motor to close the garage door.
-![state diagram](rsc/statediagram.png)
+![state diagram](rsc/statediagram.jpg)
